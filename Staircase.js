@@ -28,7 +28,7 @@ function readLine() {
 
 function staircase(n) {
     let solution = "";
-    for (let i = 0; i<0; i++) {
+    for (let i = 0; i<n; i++) {
        let solution = "";
        for (let b = 0; b<n-i-1; b++) {
            solution += " "
